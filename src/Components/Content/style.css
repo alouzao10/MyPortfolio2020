@@ -1,0 +1,13 @@
+.content-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  font-size: 15px;
+}
+
+.content-body {
+  background-color: rgb(199, 199, 199);
+  padding: 5px;
+}
