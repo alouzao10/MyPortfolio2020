@@ -1,0 +1,18 @@
+.projects {
+  padding: 5px;
+  background-color: whitesmoke;
+  border-top: 1px solid black;
+}
+
+.header {
+  justify-content: center;
+}
+
+.projectTitle {
+  padding: 10px;
+  background-color: rgb(199, 199, 199);
+}
+
+.projectDescription {
+  text-indent: 50px;
+}
